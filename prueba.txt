@@ -1,4 +1,2 @@
-mi primera linea de comandos 
+quiero ser maestro en git
 
-
-ffsdfdsfsdfsdfsdfsdf
